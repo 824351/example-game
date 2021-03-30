@@ -1,4 +1,4 @@
 # example-game
 A test repository for an imaginary game... I need friends
 
-Super Cool!
+Wow! Super Cool! **wow*!
